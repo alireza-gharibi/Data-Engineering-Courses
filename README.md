@@ -1,6 +1,5 @@
 My hand notes on data engineering courses that i took are availableat : \
-[IBM Data Engineer](https://drive.google.com/drive/folders/1hvIw1WOFp5goZVfYDPTAqy1w1enosHNK?usp=sharing) 
-
+[IBM Data Engineer](https://drive.google.com/drive/folders/1hvIw1WOFp5goZVfYDPTAqy1w1enosHNK?usp=sharing) \
 [DataCamp](https://docs.google.com/document/d/1u83Omk3jy8A6-wSm3tWFZm7iZznzVCeUhEsIwoA5bC8/edit?usp=sharing) \
 [DataCamp]()\
 [DataCamp]()\
