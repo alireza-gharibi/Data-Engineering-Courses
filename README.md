@@ -1,4 +1,5 @@
-My hand notes on data engineering courses that i took are availableat : \
+I wrote down all the tips and tricks in each course that i took. 
+My hand notes on data engineering courses are available at : \
 [IBM Data Engineer](https://drive.google.com/drive/folders/1hvIw1WOFp5goZVfYDPTAqy1w1enosHNK?usp=sharing) \
 [DataCamp Bash Scripting](https://docs.google.com/document/d/1u83Omk3jy8A6-wSm3tWFZm7iZznzVCeUhEsIwoA5bC8/edit?usp=sharing) \
 [DataCamp Writing Efficient Python Code](https://docs.google.com/document/d/19STnNUWZV29YWepPqPBD-rKvrl6gLdw3A3tNoB3yLhY/edit?usp=sharing)\
