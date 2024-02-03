@@ -10,4 +10,5 @@ My hand notes on data engineering courses are available at : \
 [DataCamp Introduction to Docker](https://docs.google.com/document/d/1LSxNV-b0Q_EUS36dIbjc2BUj4DHADrH7njBli5GUxao/edit?usp=sharing)\
 [DataCamp Data Governance Concepts](https://docs.google.com/document/d/1VGn-pQauozQ_0MVTXDVSKq6VdkV6Ltg-nrQOeWGVIHU/edit?usp=sharing)\
 [DataCamp Unit Testing for Data Science in Python](https://docs.google.com/document/d/1YlvkUgguEwS18d6FWBUUmFjAa3lQlQS8U5mD9Iq-wOI/edit?usp=sharing) \
-[DataCamp Writing Functions in Python](https://docs.google.com/document/d/1JKU-XataaecYZAjeTYXjBN0EDxEFYzHvzRpHdBNvnSI/edit?usp=sharing)
+[DataCamp Writing Functions in Python](https://docs.google.com/document/d/1JKU-XataaecYZAjeTYXjBN0EDxEFYzHvzRpHdBNvnSI/edit?usp=sharing) \
+[DataCamp Introduction to DBT](https://docs.google.com/document/d/18MgLeQG8VA6YL8XLkx7UmxTWfTVkLf76EF_iGSrJul4/edit?usp=sharing)
