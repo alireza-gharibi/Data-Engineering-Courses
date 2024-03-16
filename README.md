@@ -12,5 +12,5 @@ My hand notes on data engineering courses are available at : \
 [DataCamp Unit Testing for Data Science in Python](https://docs.google.com/document/d/1YlvkUgguEwS18d6FWBUUmFjAa3lQlQS8U5mD9Iq-wOI/edit?usp=sharing) \
 [DataCamp Writing Functions in Python](https://docs.google.com/document/d/1JKU-XataaecYZAjeTYXjBN0EDxEFYzHvzRpHdBNvnSI/edit?usp=sharing) \
 [DataCamp Introduction to DBT](https://docs.google.com/document/d/18MgLeQG8VA6YL8XLkx7UmxTWfTVkLf76EF_iGSrJul4/edit?usp=sharing) \
-[Introduction to Data Pipelines DataCamp](https://docs.google.com/document/d/1v5ad635VxyjTBFIPmFkOnw10mm4V8ZQTDLtvx3C2_Yg/edit?usp=sharing) 
+[DataCamp Introduction to Data Pipelines DataCamp](https://docs.google.com/document/d/1v5ad635VxyjTBFIPmFkOnw10mm4V8ZQTDLtvx3C2_Yg/edit?usp=sharing) 
 
